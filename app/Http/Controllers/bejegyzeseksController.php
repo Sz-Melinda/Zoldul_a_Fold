@@ -10,7 +10,7 @@ class bejegyzeseksController extends Controller
 {
     public function index(Request $request)
     {
-        return tevekenysegeks::all();
+        return bejegyzeseks::all();
 
     }
 }

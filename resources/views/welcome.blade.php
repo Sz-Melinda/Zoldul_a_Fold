@@ -15,19 +15,15 @@
 
             <h3> Mit tettem ma a földért? </h3>
 
-            <select id="tevekenysegek" name="tevekenysegek">
+            <select id="osztalyok" name="osztalyok">
 
-                <option value=""> Válassz osztályt: </option>
-
-                <option value="bicikli"> 11A </option>
-                <option value="papirZacsi"> 11B </option>
-                <option value="viz"> 12A </option>
+                <option value="11A"> 11A </option>
+                <option value="11B"> 11B </option>
+                <option value="12A"> 12A </option>
 
             </select>
 
             <select id="tevekenysegek" name="tevekenysegek">
-
-                <option value=""> Válassz tevékenységet: </option>
 
                 <option value="bicikli"> Biciklivel mentem suliba </option>
                 <option value="papirZacsi"> Papír zacsit használtam a boltba </option>
